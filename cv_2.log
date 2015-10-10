@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.13)  15 SEP 2015 08:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.13)  10 OCT 2015 15:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -151,52 +151,51 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 79.
+(Font)              <7> on input line 80.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 79.
+(Font)              <5> on input line 80.
 
-<florence.jpg, id=1, 961.5925pt x 1316.92pt>
-File: florence.jpg Graphic file (type jpg)
- <use florence.jpg>
-Package pdftex.def Info: florence.jpg used on input line 79.
-(pdftex.def)             Requested size: 76.81158pt x 82.50824pt.
+<1.jpg, id=1, 1156.32pt x 1336.995pt>
+File: 1.jpg Graphic file (type jpg)
+ <use 1.jpg>
+Package pdftex.def Info: 1.jpg used on input line 80.
+(pdftex.def)             Requested size: 76.82198pt x 82.50113pt.
 
-Overfull \vbox (2.10828pt too high) detected at line 79
+Overfull \vbox (2.10117pt too high) detected at line 80
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--108
+Underfull \hbox (badness 10000) in paragraph at lines 97--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--108
+Underfull \hbox (badness 10000) in paragraph at lines 97--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--109
 
  []
 
 [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./flore
-nce.jpg>] ) 
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./1.jpg
+>] ) 
 Here is how much of TeX's memory you used:
  1577 strings out of 493089
- 22651 string characters out of 6134842
+ 22616 string characters out of 6134842
  84016 words of memory out of 5000000
  5068 multiletter control sequences out of 15000+600000
  4906 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,13n,30p,251b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-bx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl1
-0.pfb>
-Output written on cv_2.pdf (1 page, 138949 bytes).
+ 37i,13n,30p,247b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+Output written on cv_2.pdf (1 page, 558486 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
